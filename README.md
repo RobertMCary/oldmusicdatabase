@@ -12,3 +12,6 @@ etc. The site also featured a variety of custom CSS stylesheets that could be re
 The SQL commands will no longer execute, as I have lost access to the server on which they originally moved through,
 but I would like to eventually rewrite the tables as they would have existed, purely for understanding for myself and
 anyone else interested. I will create an 'issue' and leave it open until I can do this.
+
+NOTE: The music blog I am currently working on will draw from this project, and I consider it a complete reworking of
+what I wanted this project to originally be. It will be a more...fully-realized version. This project will not be updated in the future.
