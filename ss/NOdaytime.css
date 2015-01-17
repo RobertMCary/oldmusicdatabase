@@ -1,0 +1,179 @@
+body
+{
+	background-color: #F3E2A9;
+	color: #B40404;
+	font-family:"Times New Roman",Georgia,Serif;
+	text-align: center;
+}
+
+h1
+{
+	color: #FE9A2E;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 1.5em;
+}
+
+h2
+{
+	color: #0174DF;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 1.15em;
+}
+
+h3
+{
+	color: black;
+	font-family: 'times new roman';
+	font-weight: bold;
+	font-size: 1em;
+}
+
+.tableclass
+{
+	text-align: center;
+	border-collapse:collapse;
+	display: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.tableheader
+{
+	text-align: center;
+	font-style: oblique;
+	padding:1.5px;
+	font-family:"Times New Roman",Georgia,Serif;
+	font-weight: 600;
+	background-color: #FD848E;
+	color: #E8F0A0;
+	border: 2px solid #819FF7;
+}
+
+.tabledata
+{
+	text-align: center;
+	border-collapse:collapse;
+	border: 2px solid #819FF7;
+	padding: 2px;
+}
+
+.tablerow
+{
+	background-color: #FCFFE1;
+	color: #3F74D7;
+}
+
+.rp1
+{
+	color: #FA5858;
+	font-size: 130%;
+	font-family:"Times New Roman",Georgia,Serif;
+}
+
+.rp2
+{
+	color: #FA5858;
+	font-size: 110%;
+	font-family:"Times New Roman",Georgia,Serif;
+}
+
+#menubar
+{
+	position: fixed;
+	bottom: 5px;
+	left: 20px;
+	border: none;
+	background-color: #F3E2A9;
+}
+
+#browsemenu
+{
+	position: absolute;
+	background-color: #09549B;
+	height: 60%;
+	width: 50%;
+	overflow: auto;
+}
+
+#browseBar
+{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 10%;
+	right: 5%;
+	text-align: center;
+}
+
+#rSearchBox
+{
+	position: fixed;
+	bottom: 5%;
+	right: 17%;
+	text-align: center;
+}
+
+#commentsBox
+{
+	position: fixed;
+	bottom: 5%;
+	right: 5%;
+	text-align: left;
+	background-color: #F7D358;
+	width: 400px;
+	height: 150px;
+	overflow: auto;
+}
+
+#imageBox
+{
+	top: 5%;
+	float: right;
+	border: 10px #FA5858;
+	border-style: outset;
+}
+
+#helpBox
+{
+	top: 1%;
+	right: 1%;
+}
+
+#releaseComment
+{
+	top: 15%;
+	width: 260px;
+	height: 300px;
+	overflow: auto;
+	text-align: left;
+	font-size: 80%;
+}
+
+#tumblrBox{
+	top: 30%;
+	float: right;
+	width: 500px;
+	height: 400px;
+	text-align: left;
+	position: relative;
+	overflow: auto;
+	border: 3px dotted #FE9A2E;
+}
+
+a:hover
+{
+	text-decoration:underline;
+}
+
+a:visited
+{
+	color: #AE475B;
+}
+
+ul
+{
+	list-style: none;
+	color: #00BFFF;
+	font-family:"Times New Roman",Georgia,Serif;
+}

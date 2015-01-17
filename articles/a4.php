@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>NIGHTOWL: Making it work for you: The Diynamic Camp</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Rob Cary" />
+<meta name="description" content="The internet home of DJ Nightowl" />
+
+<link rel="stylesheet" href="/~rcary/cs148/finalproject/ss/NOdefault.css" type="text/css" title="nighttime" media="screen" />
+<link rel="alternate stylesheet" href="/~rcary/cs148/finalproject/ss/NOdaytime.css" type="text/css" title="daytime" media="screen" />
+<link rel="alternate stylesheet" href="/~rcary/cs148/finalproject/ss/NOtropical.css" type="text/css" title="tropical" media="screen" />
+<link rel="alternate stylesheet" href="/~rcary/cs148/finalproject/ss/NOdarkness.css" type="text/css" title="darkness" media="screen" />
+
+<script src="cookies.js" type="text/javascript"></script>
+
+<script src="/~rcary/cs148/finalproject/styleCheck.js" type="text/javascript"></script>
+</head>
+<body>
+<div style='float: right; top: 50%; text-align: right;'>
+<h1>A patient man: Martin Buttrich</h1>
+</div>
+<div style='float: left; width: 800px; height: 450px; overflow: auto; text-align: left;'>
+<p style='text-indent: 2em;'>There are qualities in dance music that are often overlooked by the general populous, the most important of which is probably patience. Patience can be defined as the capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset, and in the context of dance music, a number of parallels can be drawn. Part of being able to appreciate dance music comes from the occasional inability, in both a club and musical context, to know what's going to happen next, dynamically-speaking, musically-speaking, and (all other factors)-speaking as well, and if one can tolerate, or even enjoy this unfamiliarity, the importance of production, sound design, and pacing will slowly begin to unravel itself when you listen to other music, even if its a different style or genre.</p>
+<p style='text-indent: 2em;'>Not a lot of popular dance music is patient, however, and radio edits (essentially a 'let's get to the good part' version of a track) of dance tracks permeate the airwaves these days. German producer Martin Buttrich has even had a hand in creating some of these pop records (the man has over 287 production credits, mind you) and has produced for Timo Maas as well, so the man's production chops should not be in question, but Buttrich is a patient man, and his music shows that very fact to be nothing but true.</p>
+<p style='text-indent: 2em;'>Buttrich first stepped into the solo production arena in 2004, but it wasn't until a 2006 release on Steve Bug's Poker Flat imprint that Buttrich's methods and motives truly came to fruition. This record, 'Cloudy Bay (insert link hurr)', featured an A-side that, while not the most danceable track out there, demonstrated a lush, calculating style of production that birthed a beautiful sonic landscape rich with personality and overflowing with detail. You could say listening to this track might be comparable to watching a Chris Nolan movie; requires multiple watches (listens here) and each time, you pick up on something else, and a further dimension to the track could unfold right in front of you.</p>
+<p style='text-indent: 2em;'>It is no accident that Buttrich's productions stand up to such scrutiny by design; each of his productions is a journey in and of itself, and while dance music is certainly a platform upon which necessarily danceable tracks should be made, the medium is equally conducive to experimentation, and Buttrich takes every opportunity to draw you into his world while still staying friendly to the dancefloor.</p>
+<p style='text-indent: 2em;'>With a handful of other releases here and there, Buttrich has had appearances on German techno powerhouse Cocoon Recordings, Four:Twenty, and Planet E, however most of his time is spend on Desolat, the imprint he and his production partner Loco Dice founded in 2007. The label's success has grown over the years, and with five LPs, over twenty EPs, as well as a yearly X-Sampler series and a vinyl-only X series, the Desolat catalog looks to go nowhere but up. The label also has a rather notorious yearly party at WMC, usually paired with Cadenza in a kind of label series. A minor side note, but I digress. Let's pick up some old Buttrich classics before browsing his newer material.</p>
+<p style='text-indent: 2em;'>Two of Buttrich's best cuts come from two EPs he released on Carl Craig's Planet E imprint. 'Full Clip' begins life as little more than a kick and some hi-hats. Slowly but surely the track gathers momentum, allowing the hypnotic groove take center-stage while the elements beneath it are tweaked and slot appropriately into the mix. A healthy dose of strings and all manner of sci-fi FX follow, and the dynamic shifts the track experiences only add the sum of its parts. The only thing asked of the listener is to patiently wait to experience everything here, so this writer will do the same. A lot can, and does, happen in twelve minutes.</p>
+<p style='text-indent: 2em;'>The second of two is 'Stoned Autopilot', off his second Planet E EP. Taking much longer to get moving than 'Full Clip' does, 'Stoned…' gets its good graces from a more thoroughly-crafted atmosphere and an even more patient build-up. The hypnotic, droning synth stabs provide the only real sense of growth, while the percussion hangs in air as thick as the air on sunny, hot July day. I'm not going to say anything else, as it's important that you hear for yourself the intricacies in the sound, my words come not at all close to describing what's going on, like it or not. I will say that every listen to 'Stoned…' reminds me why I love thoughtful, well-produced dance music; it makes you think as much as it makes you dance.</p>
+<p style='text-indent: 2em;'>More recently, Buttrich has adhered to a slower, housier template, and has done away with the Detroit influences that blared loud and clear on his Planet E material. His records for his home, Desolat, announce that he's lost none of his rhythmic pop and attention to detail, only channelled it differently. 'Magic Market' has a particularly groovy rhythm that really shuffles along quite nicely, and the cut employs a Middle-Eastern string sample to lethal effect. The sample is not thrown at you; instead, it creeps up on you and snaps right to the rhythm at the perfect moment. Buttrich is on top form, even when he has under seven minutes to work with.</p>
+<p style='text-indent: 2em;'>The last record I'd like to observe comes from the latest X-Sampler compilation (purple) and features Buttrich sharing production credits with Desolat cohort Davide Squillace. 'Mishima' steers towards the dancefloor almost immediately, but the record's bassline and aural color are all Martin. A more dance-friendly idea of the Buttrich sound, you could say.</p>
+<p style='text-indent: 2em;'>Martin Buttrich, if it wasn't already obvious, is one of my favorite producers, and regardless of however much bias should follow, the stalwart German only has eight releases on original material to his name..that's practically nothing! The man clearly cares about quality control, and if there's one thing that gets thrown by the wayside in popular dance music, it is quality control. Just need to be a little bit more patient, I guess.</p>
+<p style='text-indent: 2em;'>~Nightowl</p>
+</div>
+<?php include("menubar.php");
+?>
+</body>
+</html>
